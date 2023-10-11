@@ -1,0 +1,24 @@
+css
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+.error-container {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.error-code {
+    font-size: 72px;
+    color: #555;
+}
+
+.error-message {
+    color: #555;
+}
+
+.home-link {
+    color: #007BFF;
+    text-decoration: none;
+}
